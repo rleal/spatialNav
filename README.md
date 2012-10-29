@@ -1,7 +1,7 @@
 This is a jQuery plugin that provides spatial navigation to a HTML web.
 
 To define which elements will be navigables, adds a class 'navigable'. 
-To define the behavior, you need to add data-tags to the html components that takes the focus. This behavior-tags catchs the key event and fires the function asigned to change focus. I write some auxiliar function that you can use.
+To define the behavior, you need to add data-tags to the html components that takes the focus. This behavior-tags catchs the key event and fires the function asigned to change focus. I wrote some auxiliar function that you can use.
 
 Behavior tags: 
 --------------
